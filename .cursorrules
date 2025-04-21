@@ -1,0 +1,20 @@
+// Unity Flappy bird Game using Mobile
+// This project involves creating a Flappy bird style game controlled by a Mobile.
+
+// Project Context
+// When you touch the screen, the character jumps. 
+// If the character touches an obstacle, he dies. 
+// Each time he passes an obstacle, he earns 1 point.
+// The project is currently undergoing refactoring for better extensibility and maintainability.
+
+// Development Environment
+// Language: C#
+// Unity Version: 6000.0.28f1
+
+// Instructions
+// Ensure the game mechanics are intuitive and responsive.
+// Focus on optimizing performance for real-time gameplay.
+// Implement modular code structure for easy updates and feature additions.
+
+// Additional Notes
+// Feel free to ask questions if you need more information about the project intentions.
